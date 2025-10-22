@@ -4,5 +4,5 @@ export default [
 	// "https://glink25.github.io",
 	// "https://oncent.github.io",
 	// "https://cent.linkai.work",
-	"https://cent.yiloooooooong.workers.dev"
+	"https://cent-backend.yiloooooooong.workers.dev"
 ];
